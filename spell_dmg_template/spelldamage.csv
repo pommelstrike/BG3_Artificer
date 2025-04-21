@@ -1,0 +1,81 @@
+Spell,Level,rolls,dice,Flat Damage,Average Damage,Targeting,Additional Statuses,Adds Weapon Damage,Concentration,Multi-Turn
+Acid Splash,0,4,4,,10,AoE,FALSE,FALSE,FALSE,FALSE
+Bone Chill,0,1,8,,4.5,Target: Single,TRUE,FALSE,FALSE,FALSE
+Eldritch Blast,0,1,10,,5.5,Target: Single,FALSE,FALSE,FALSE,FALSE
+Firebolt,0,1,10,,5.5,Target: Single,FALSE,FALSE,FALSE,FALSE
+Poison Spray,0,1,12,,6.5,Target: Single,FALSE,FALSE,FALSE,FALSE
+Produce Flame,0,1,8,,4.5,Target: Single,TRUE,FALSE,FALSE,FALSE
+Ray of Frost,0,1,8,,4.5,Target: Single,TRUE,FALSE,FALSE,FALSE
+Sacred Flame,0,1,8,,4.5,Target: Single,FALSE,FALSE,FALSE,FALSE
+Shocking Grasp,0,1,8,,4.5,Melee,TRUE,FALSE,FALSE,FALSE
+Thorn Whip,0,1,6,,3.5,Target: Single,TRUE,FALSE,FALSE,FALSE
+Shillelagh,0,1,8,,4.5,Target: Single,FALSE,TRUE,FALSE,FALSE
+Vicious Mockery,0,1,4,,2.5,Target: Single,TRUE,FALSE,FALSE,FALSE
+Armour of Agathys,1,5,1,,5,Melee,TRUE,FALSE,FALSE,FALSE
+Arms of Hadar,1,2,6,,7,AoE,TRUE,FALSE,FALSE,FALSE
+Burning Hands,1,3,6,,10.5,AoE,FALSE,FALSE,FALSE,FALSE
+Chromatic Orb,1,3,8,,13.5,Target: Single,TRUE,FALSE,FALSE,FALSE
+Ensnaring Strik,1,1,6,,3.5,Target: Single,TRUE,TRUE,TRUE,FALSE
+Divine Favour,1,1,4,,2.5,Target: Single,FALSE,TRUE,TRUE,FALSE
+Guiding Bolt,1,4,6,,14,Target: Single,TRUE,FALSE,FALSE,FALSE
+Hail of Thorns,1,1,10,,5.5,AoE,FALSE,TRUE,FALSE,FALSE
+Hellish Rebuke,1,2,10,,11,Target: Single,FALSE,FALSE,FALSE,FALSE
+Hex,1,1,6,,3.5,Target: Single,FALSE,TRUE,TRUE,FALSE
+Hunter's Mark,1,1,6,,3.5,Target: Single,FALSE,TRUE,TRUE,FALSE
+Ice Knife,1,1,10,,5.5,Target: Single w/ AoE,TRUE,FALSE,FALSE,FALSE
+Inflict Wounds,1,3,10,,16.5,Melee,FALSE,FALSE,FALSE,FALSE
+Magic Missile,1,3,4,3,10.5,Target: Multiple,FALSE,FALSE,FALSE,FALSE
+Ray of Sickness,1,2,8,,9,AoE,TRUE,FALSE,FALSE,FALSE
+Searing Smite,1,1,6,,3.5,Target: Single,TRUE,TRUE,TRUE,TRUE
+Thunderous Smite,1,2,6,,7,Target: Single,TRUE,TRUE,FALSE,FALSE
+Thunderwave,1,2,8,,9,AoE,TRUE,FALSE,FALSE,FALSE
+Witch Bolt,1,1,12,,6.5,Target: Single,TRUE,FALSE,TRUE,FALSE
+Wrathful Smite,1,1,6,,3.5,Target: Single,TRUE,TRUE,TRUE,TRUE
+Branding Smite,2,2,6,,7,Target: Single,TRUE,TRUE,TRUE,TRUE
+Cloud of Daggers,2,4,4,,10,AoE,TRUE,FALSE,TRUE,TRUE
+Flame Blade,2,3,6,,10.5,Target: Single,FALSE,FALSE,FALSE,FALSE
+Flaming Sphere,2,2,6,,7,Summon,TRUE,FALSE,TRUE,FALSE
+Heat Metal,2,2,8,,9,Target: Single,TRUE,FALSE,TRUE,TRUE
+Melf's Acid Arrow,2,4,4,,10,Target: Single,TRUE,FALSE,FALSE,FALSE
+Moonbeam,2,2,10,,11,Summon,FALSE,FALSE,TRUE,FALSE
+Phantasmal Force,2,1,6,,3.5,Target: Single,FALSE,TRUE,TRUE,TRUE
+Scorching Ray,2,6,6,,21,Target: Multiple,FALSE,FALSE,FALSE,FALSE
+Shatter,2,3,8,,13.5,AoE,FALSE,FALSE,FALSE,FALSE
+Spike Growth,2,2,4,,5,Summon,TRUE,FALSE,FALSE,TRUE
+Spiritual Weapon,2,1,8,2,6.5,Summon,FALSE,FALSE,FALSE,FALSE
+Blinding Smite,3,3,8,,13.5,Target: Single,TRUE,TRUE,FALSE,FALSE
+Call Lightning,3,3,10,,16.5,AoE,FALSE,FALSE,TRUE,FALSE
+Conjure Barrage,3,2,8,,9,AoE,FALSE,TRUE,FALSE,FALSE
+Crusader's Mantle,3,1,4,,2.5,Target: Single,FALSE,TRUE,TRUE,TRUE
+Fireball,3,8,6,,28,AoE,FALSE,FALSE,FALSE,FALSE
+Glyph of Warding,3,5,8,,22.5,AoE,FALSE,FALSE,FALSE,FALSE
+Hungar of Hadar,3,4,6,,14,AoE,TRUE,FALSE,TRUE,TRUE
+Lightning Arrow,3,4,8,,18,Target: Single w/ AoE,FALSE,FALSE,FALSE,FALSE
+Lightning Bolt,3,8,6,,28,AoE,FALSE,FALSE,FALSE,FALSE
+Spirit Guardians,3,3,8,,13.5,AoE,FALSE,FALSE,TRUE,TRUE
+Vampiric Touch,3,3,6,,10.5,Target: Single,TRUE,FALSE,TRUE,TRUE
+Blight,4,8,8,,36,Target: Single,TRUE,FALSE,FALSE,FALSE
+Evards Black Tentacles,4,3,6,,10.5,Summon,TRUE,FALSE,TRUE,TRUE
+Fire Shield,4,2,8,,9,Melee,FALSE,FALSE,FALSE,TRUE
+Guardian of Faith,4,20,1,,20,Summon,FALSE,FALSE,FALSE,TRUE
+Ice Storm,4,4,6,8,22,AoE,TRUE,FALSE,TRUE,TRUE
+Phantasmal Killer,4,4,10,,22,Target: Single,TRUE,FALSE,TRUE,TRUE
+Wall of Fire,4,5,8,,22.5,AoE,FALSE,FALSE,TRUE,TRUE
+Artistry of War,5,12,6,36,78,Target: Multiple,FALSE,FALSE,FALSE,FALSE
+Banishing Smite,5,5,10,,27.5,Target: Single,TRUE,TRUE,TRUE,TRUE
+Cloudkill,5,5,8,,22.5,AoE,FALSE,FALSE,TRUE,TRUE
+Cone of Cold,5,8,8,,36,AoE,TRUE,FALSE,FALSE,FALSE
+Destructive Wave,5,10,6,,35,AoE,TRUE,FALSE,FALSE,FALSE
+Dethrone,5,10,6,20,55,Target: Single,FALSE,FALSE,FALSE,FALSE
+Flame Strike,5,10,6,,35,AoE,FALSE,FALSE,FALSE,FALSE
+Insect Plague,5,4,10,,22,AoE,TRUE,FALSE,TRUE,TRUE
+Blade Barrier,6,6,10,,33,AoE,FALSE,FALSE,TRUE,TRUE
+Chain Lightning,6,10,8,,45,Target: Multiple,FALSE,FALSE,FALSE,FALSE
+Circle of Death,6,8,6,,28,AoE,FALSE,FALSE,FALSE,FALSE
+Disintegrate,6,10,6,40,75,Target: Single,FALSE,FALSE,FALSE,FALSE
+Otiluke's Freezing Sphere,6,10,6,,35,AoE,TRUE,FALSE,FALSE,FALSE
+Sunbeam,6,6,8,,27,AoE,TRUE,FALSE,TRUE,FALSE
+Wall of Ice,6,10,6,,35,AoE,TRUE,FALSE,TRUE,FALSE
+Wall of Thorn,6,7,8,,31.5,AoE,TRUE,FALSE,TRUE,FALSE
+Power Word Kill,9,,,100,100,Target: Single,FALSE,FALSE,FALSE,FALSE
+Power Word Ruin,9,30,6,120,225,Target: Multiple,FALSE,FALSE,FALSE,FALSE
